@@ -1,6 +1,6 @@
 ---
 contributors:
-  - "fajaedenl"
+  - "fESeo"
   - "fajaede"
 tags:
   - "seo"
