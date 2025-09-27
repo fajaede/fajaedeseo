@@ -33,8 +33,8 @@ Fajaede SEO provides a comprehensive suite of tools to optimize your WordPress s
 *   **Robots.txt Editor:** Directly edit your `robots.txt` file from the WordPress dashboard to control search engine access.
 *   **Performance-Oriented:** Built with speed in mind, Fajaede SEO ensures your website remains fast and responsive.
 *   **User-Friendly Interface:** An intuitive and easy-to-navigate interface makes SEO accessible to everyone, regardless of technical expertise.
-*   Modern SEO sidebar for the block editor (posts/pages)
-*  ive Meta Title, Meta Description, and Focus Keyword fields Easily customize titles and descriptions for posts, pages, and custom post types to improve click-through rates
+*  Modern SEO sidebar for the block editor (posts/pages)
+*  Live Meta Title, Meta Description, and Focus Keyword fields Easily customize titles and descriptions for posts, pages, and custom post types to improve click-through rates
 *  AI-powered meta title & description suggestions
 *  Real-time SEO score with color-coded feedback
 * Writing analysis: keyword density, sentence length, passive voice
