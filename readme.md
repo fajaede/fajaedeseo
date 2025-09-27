@@ -29,7 +29,7 @@ Fajaede SEO provides a comprehensive suite of tools to optimize your WordPress s
 
 *   **Meta Title & Description Management:** Easily customize titles and descriptions for posts, pages, and custom post types to improve click-through rates.
 *   **XML Sitemap Generation:** Automatically generate and update XML sitemaps to help search engines crawl and index your content more efficiently.
-*   **Canonical URLs:** Prevent duplicate content issues by setting canonical URLs for your pages.
+*   **Canonical URLs:** Prevent duplicate content issues by setting canonical URLs for your pages.(featured)
 *   **Robots.txt Editor:** Directly edit your `robots.txt` file from the WordPress dashboard to control search engine access.
 *   **Social Media Integration:** Optimize how your content appears when shared on social media platforms like Facebook and Twitter.
 *   **Performance-Oriented:** Built with speed in mind, Fajaede SEO ensures your website remains fast and responsive.
