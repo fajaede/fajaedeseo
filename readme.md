@@ -27,13 +27,26 @@ Fajaede SEO provides a comprehensive suite of tools to optimize your WordPress s
 
 **Key Features:**
 
-*   **Meta Title & Description Management:** Easily customize titles and descriptions for posts, pages, and custom post types to improve click-through rates.
+*   .
 *   **XML Sitemap Generation:** Automatically generate and update XML sitemaps to help search engines crawl and index your content more efficiently.
 *   **Canonical URLs:** Prevent duplicate content issues by setting canonical URLs for your pages.(featured)
 *   **Robots.txt Editor:** Directly edit your `robots.txt` file from the WordPress dashboard to control search engine access.
-*   **Social Media Integration:** Optimize how your content appears when shared on social media platforms like Facebook and Twitter.
+*   
 *   **Performance-Oriented:** Built with speed in mind, Fajaede SEO ensures your website remains fast and responsive.
 *   **User-Friendly Interface:** An intuitive and easy-to-navigate interface makes SEO accessible to everyone, regardless of technical expertise.
+*   Modern SEO sidebar for the block editor (posts/pages)
+✍️ Live Meta Title, Meta Description, and Focus Keyword fields Easily customize titles and descriptions for posts, pages, and custom post types to improve click-through rates
+🤖 AI-powered meta title & description suggestions
+🟩 Real-time SEO score with color-coded feedback
+🧠 Writing analysis: keyword density, sentence length, passive voice
+🏷️ Automated Open Graph and Twitter Card meta tags (with image fallback)
+📊 Content analysis (headings, internal links, images with alt)
+💡 Keyword suggestions from your own content
+🖼️ Visual social image preview social media platforms like Facebook and Twitter with fallback image
+🗂️ Schema.org Article structured data (JSON-LD)
+💯 100% JavaScript/React for the editor (no visible admin menus)
+⚡ Fast, minimal, and privacy-respecting by design
+
 
 ## Installation
 
