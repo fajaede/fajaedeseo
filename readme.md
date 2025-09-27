@@ -27,11 +27,10 @@ Fajaede SEO provides a comprehensive suite of tools to optimize your WordPress s
 
 **Key Features:**
 
-*   .
+
 *   **XML Sitemap Generation:** Automatically generate and update XML sitemaps to help search engines crawl and index your content more efficiently.
 *   **Canonical URLs:** Prevent duplicate content issues by setting canonical URLs for your pages.(featured)
 *   **Robots.txt Editor:** Directly edit your `robots.txt` file from the WordPress dashboard to control search engine access.
-*   
 *   **Performance-Oriented:** Built with speed in mind, Fajaede SEO ensures your website remains fast and responsive.
 *   **User-Friendly Interface:** An intuitive and easy-to-navigate interface makes SEO accessible to everyone, regardless of technical expertise.
 *   Modern SEO sidebar for the block editor (posts/pages)
